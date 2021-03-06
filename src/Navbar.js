@@ -10,7 +10,7 @@ const Navbar = () => {
             <div className="links">
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
-                <Link to="/portfolio">Portfolio</Link>
+                <Link to="/projects">Portfolio</Link>
                 <Link to="/interests">Interests</Link>
                 <Link to="/resume" style={{color: "white", background: "#001c2e", borderRadius: "8px"}}>Resume</Link>
             </div>

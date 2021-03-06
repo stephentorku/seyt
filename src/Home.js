@@ -37,7 +37,7 @@ const Home = () => {
                             offset={-70}
                             duration={500}
                         >About Me</Link></button>
-                        <button className ="btn-portfolio"><Reroute to="/portfolio">Portfolio</Reroute></button>
+                        <button className ="btn-portfolio"><Reroute to="/projects">Portfolio</Reroute></button>
                 </div>
                 
                 <div className="col-md-6">
