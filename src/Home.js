@@ -95,11 +95,11 @@ const Home = () => {
                 <p>I'm open to opportunities :)</p>
                 <form onSubmit={sendEmail}>
                     
-                    <input type="text" placeholder="Name" name="name"/><br/>
+                    <input type="text" placeholder="Name" name="name" required/><br/>
                     
-                    <input type="email" placeholder="Email" name="email"/><br/>
+                    <input type="email" placeholder="Email" name="email" required/><br/>
                    
-                    <textarea name="message" id="textarea" cols="30" rows="10" placeholder="Message"></textarea><br/>
+                    <textarea name="message" id="textarea" cols="30" rows="10" placeholder="Message" required></textarea><br/>
                     <button type="submit" value="submit">Send</button>
                 </form>
             </div>
