@@ -39,6 +39,10 @@ function App() {
             <Interests />
           </Route>
 
+          <Route path='*'>
+          <Home />
+          </Route>
+
         </Switch>
       </div>
       <Footer />
