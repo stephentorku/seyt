@@ -1,5 +1,5 @@
 // import { Document, pdfjs } from 'react-pdf';
-import resume from './images/Stephen_Torku_onlinecv.pdf';
+import resume from './images/StephenTorku-CV(online).pdf';
 // pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 
