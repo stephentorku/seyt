@@ -13,7 +13,7 @@ const About = () =>{
         <div className="about-main">
             <h1>Computer Science Major</h1>
             <div className="education">
-                <p>Currently pursuing a Bsc. Computer Science @ <a href="www.ashesi.edu.gh">Ashesi University</a>. <br/>I have a particular interest in Mathematics related projects or topics.
+                <p>Currently pursuing a Bsc. Computer Science @ <a href="www.ashesi.edu.gh" target="_blank">Ashesi University</a>. <br/>I have a particular interest in Mathematics related projects or topics.
                 I plan to go into Machine Learning and or Data Science. <br/>
                 Fun fact: If I didn't get into tech, I would probably have ended u as a Chemical Engineer.<br/> I am open to new opportunities (Freelancing, Internships etc.)</p>
             </div>

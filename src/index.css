@@ -129,6 +129,10 @@ body {
 }
 .bio {
   text-align: center;
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  border-radius: 10px;
+  padding: 5%;
+
 }
 .divider{
   width: 50%;
@@ -322,3 +326,13 @@ margin-bottom: 10%;
   text-decoration: none;
 }
 
+ul li::before {
+  content: "▹";
+  position: absolute;
+  left: 0px;
+  color: var(--green);
+  padding-left: 15%;
+}
+li{
+  list-style-type: none;
+}

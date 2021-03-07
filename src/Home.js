@@ -2,7 +2,7 @@ import headshot from './images/headshot.jpg';
 import web from './images/web.jpg';
 import phone from './images/phone.png';
 import dev from './images/dev.png';
-import { Link, animateScroll as Scroll } from "react-scroll";
+import { Link} from "react-scroll";
 import {Link as Reroute} from 'react-router-dom';
 import emailjs from 'emailjs-com';
 
@@ -79,7 +79,7 @@ const Home = () => {
                                 <li> Django</li>
                                 <li>  Java</li>
                             </ul>
-                        </div>
+                    </div>
                     </div>
                 
                 </div>
