@@ -21,7 +21,7 @@ const Home = () => {
       e.target.reset();
     }
     return(
-        <div className="about-main">
+        <div className="home-main">
             <div className="container">
                 <div className="row">
                 <div className="col-md-6">
@@ -68,7 +68,7 @@ const Home = () => {
                     <div className="bio">
                         
                         I am Ghanaian. <br/>
-                        I am a Computer Science student at Ashesi University looking for new challenges everyday.
+                        I am a Computer Science major at Ashesi University looking for new challenges everyday.
                         I enjoy creating things and making sure they work to perfection. I am interested in Mobile development, Web development and Machine Learning. 
                         Here are a few techonologies I have been working with:<br/>     
                             <ul>

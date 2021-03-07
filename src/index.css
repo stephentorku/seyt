@@ -281,6 +281,7 @@ body {
 }
 
 .resume-main{
+  padding-top: 10%;
   height: 100%;
   
 }
@@ -290,8 +291,17 @@ body {
 }
 
 .about-main .col-md-6{
-  margin-bottom: 30%;
+  margin-bottom: 1%;
 }
+.home-main .col-md-6{
+  margin-bottom: 15%;
+}
+
+.home-main{
+  padding-top: 220px;
+  }
+
+
 .about-main .col-md-2{
   padding-right: 10%;
 }
