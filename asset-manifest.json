@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/seyt/static/css/main.8739127f.chunk.css",
-    "main.js": "/seyt/static/js/main.18f364a5.chunk.js",
-    "main.js.map": "/seyt/static/js/main.18f364a5.chunk.js.map",
+    "main.css": "/seyt/static/css/main.801320ca.chunk.css",
+    "main.js": "/seyt/static/js/main.b592aa93.chunk.js",
+    "main.js.map": "/seyt/static/js/main.b592aa93.chunk.js.map",
     "runtime-main.js": "/seyt/static/js/runtime-main.7a685c9c.js",
     "runtime-main.js.map": "/seyt/static/js/runtime-main.7a685c9c.js.map",
     "static/css/2.150d169a.chunk.css": "/seyt/static/css/2.150d169a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.d1de5430.chunk.js.map": "/seyt/static/js/3.d1de5430.chunk.js.map",
     "index.html": "/seyt/index.html",
     "static/css/2.150d169a.chunk.css.map": "/seyt/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.8739127f.chunk.css.map": "/seyt/static/css/main.8739127f.chunk.css.map",
+    "static/css/main.801320ca.chunk.css.map": "/seyt/static/css/main.801320ca.chunk.css.map",
     "static/js/2.f5f9be84.chunk.js.LICENSE.txt": "/seyt/static/js/2.f5f9be84.chunk.js.LICENSE.txt",
     "static/media/Bookbakadmin.6958816d.png": "/seyt/static/media/Bookbakadmin.6958816d.png",
     "static/media/Bookbakuser.72adede8.png": "/seyt/static/media/Bookbakuser.72adede8.png",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.7a685c9c.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.f5f9be84.chunk.js",
-    "static/css/main.8739127f.chunk.css",
-    "static/js/main.18f364a5.chunk.js"
+    "static/css/main.801320ca.chunk.css",
+    "static/js/main.b592aa93.chunk.js"
   ]
 }
