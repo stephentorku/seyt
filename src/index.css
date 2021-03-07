@@ -152,7 +152,7 @@ body {
 
 
 .in-touch{
-  background: #001c2e;
+  background: black;
   color: white;
   padding-top: 30px;
   padding-bottom: 40px;
@@ -214,7 +214,7 @@ body {
 }
 
 .footer-d{
-  background: black;
+  background: grey;
   color: white;
   height: 10%;
   padding: 20px;
@@ -330,7 +330,7 @@ ul li::before {
   content: "▹";
   position: absolute;
   left: 0px;
-  color: var(--green);
+  color: var(--blue);
   padding-left: 15%;
 }
 li{
